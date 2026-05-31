@@ -7,6 +7,9 @@ import io
 import struct
 import auth
 
+
+
+
 win = auth.AuthApp()
 win.mainloop()
 env = win.env
